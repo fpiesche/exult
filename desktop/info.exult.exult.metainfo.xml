@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<component>
+<component type="desktop-application">
   <id>info.exult.exult</id>
   <name>Exult Ultima VII Engine</name>
   <developer id="info.exult.exult">
@@ -38,7 +38,26 @@
   <categories>
     <category>Game</category>
   </categories>
-  <releases type="external" url="https://raw.githubusercontent.com/exult/exult/master/desktop/info.exult.exult.releases.xml" />
+  <releases>
+    <release version="1.10.1" date="2024-09-25">
+      <url>https://github.com/exult/exult/releases/tag/v1.10.1</url>
+    </release>
+    <release version="1.10" date="2024-09-09">
+      <url>https://github.com/exult/exult/releases/tag/v1.10</url>
+    </release>
+    <release version="1.8" date="2022-04-16">
+      <url>https://github.com/exult/exult/releases/tag/v1.8</url>
+    </release>
+    <release version="1.6" date="2020-04-17">
+      <url>https://github.com/exult/exult/releases/tag/v1.6</url>
+    </release>
+    <release version="1.2" date="2016-03-12">
+      <url>https://github.com/exult/exult/releases/tag/v1.2</url>
+    </release>
+    <release version="1.00" date="2022-04-12">
+      <url>https://github.com/exult/exult/releases/tag/v1.00</url>
+    </release>
+  </releases>
   <content_rating type="oars-1.1">
     <content_attribute id="violence-fantasy">intense</content_attribute>
     <content_attribute id="violence-bloodshed">intense</content_attribute>
